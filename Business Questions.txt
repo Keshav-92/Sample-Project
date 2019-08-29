@@ -1,0 +1,17 @@
+Models 1: Build model one on  Demographuic variables vs Body fat 
+model2 2 :Build model one on  Anthropromatic variables vs Body fat 
+model2 3 :Build model one on  Demographic and Anthropromatic variables vs Body fat 
+
+
+steps 
+1.Data accessing
+2.Data cleaning with outouer
+3.Data quality check(hist)
+4.Data testing if required
+5.Build modeling
+6 Validate model 
+7.Optimastic model
+
+
+ 
+
